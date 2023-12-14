@@ -1,0 +1,7 @@
+{
+  "name": "pm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
